@@ -10,7 +10,7 @@ Estudo do flexbox.
 | :label: Tecnologias | html, css (tecnologias utilizadas)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgbox.io/ib/l2S8uw1oas#vitrinedev)
+![](https://imgbox.io/ib/l2S8uw1oas.png#vitrinedev)
 
 ## Detalhes do projeto
 
